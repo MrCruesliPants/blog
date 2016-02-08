@@ -10,8 +10,8 @@ permalink:           pretty
 # Setup
 timezone:            your timezone # eg. Asia/Kathmandu
 locale:              your locale language # eg. en_us
-name:				         site name
-title:               site title
+name:		     MrCruesliPants
+title:               'MrCruesliPants.io'
 tagline:             'tagline'
 description:         'description'
 url:                 site url
@@ -25,10 +25,10 @@ icon:                your site icon path # /assets/img/icon.png [best 300px X 30
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
-  name:           	 your name
+  name:           	 'Mr. CruesliPants'
   url:            	 your site url
   facebook:          username
-  twitter:           username
+  twitter:           MrCruesliPants
   google_plus:       username
   linkedin:          username
   dribbble:          username

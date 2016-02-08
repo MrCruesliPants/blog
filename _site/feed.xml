@@ -1,20 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
-		<title>site name</title>
+		<title>MrCruesliPants</title>
 		<description>description</description>
 		<link>site url</link>
 		<atom:link href="site url/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>A Life of Walt Disney</title>
+				<title>3 Games of 2016</title>
+				
+				
+					<description></description>
+				
+				<pubDate>Mon, 08 Feb 2016 08:10:39 +0000</pubDate>
+				<link>site url/games-2016</link>
+				<guid isPermaLink="true">site url/games-2016</guid>
+			</item>
+		
+			<item>
+				<title>Test post</title>
 				
 				
 					<description>Walter Elias Disney was an American entrepreneur, cartoonist, animator, voice actor, and film producer. As a prominent...</description>
 				
-				<pubDate>Mon, 15 Dec 2014 01:00:00 +0000</pubDate>
-				<link>site url/a-life-of-walt-disney</link>
-				<guid isPermaLink="true">site url/a-life-of-walt-disney</guid>
+				<pubDate>Tue, 15 Dec 2015 01:00:00 +0000</pubDate>
+				<link>site url/history/2015/12/15/a-life-of-walt-disney/</link>
+				<guid isPermaLink="true">site url/history/2015/12/15/a-life-of-walt-disney/</guid>
 			</item>
 		
 			<item>
@@ -24,8 +35,8 @@
 					<description>Mickey Mouse is a funny animal cartoon character and the official mascot of...</description>
 				
 				<pubDate>Fri, 28 Nov 2014 01:00:00 +0000</pubDate>
-				<link>site url/mickey-mouse</link>
-				<guid isPermaLink="true">site url/mickey-mouse</guid>
+				<link>site url/history/2014/11/28/mickey-mouse/</link>
+				<guid isPermaLink="true">site url/history/2014/11/28/mickey-mouse/</guid>
 			</item>
 		
 			<item>
@@ -35,8 +46,8 @@
 					<description>Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was...</description>
 				
 				<pubDate>Fri, 16 Dec 1983 01:00:00 +0000</pubDate>
-				<link>site url/television</link>
-				<guid isPermaLink="true">site url/television</guid>
+				<link>site url/history/1983/12/16/television/</link>
+				<guid isPermaLink="true">site url/history/1983/12/16/television/</guid>
 			</item>
 		
 			<item>
@@ -46,8 +57,8 @@
 					<description>Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was...</description>
 				
 				<pubDate>Fri, 18 Nov 1932 01:00:00 +0000</pubDate>
-				<link>site url/color-films</link>
-				<guid isPermaLink="true">site url/color-films</guid>
+				<link>site url/history/1932/11/18/color-films/</link>
+				<guid isPermaLink="true">site url/history/1932/11/18/color-films/</guid>
 			</item>
 		
 			<item>
@@ -57,8 +68,8 @@
 					<description>Mickey first appeared in comics after he had appeared in 15 commercially successful animated shorts and was easily recognized by ...</description>
 				
 				<pubDate>Mon, 13 Jan 1930 01:00:00 +0000</pubDate>
-				<link>site url/comics</link>
-				<guid isPermaLink="true">site url/comics</guid>
+				<link>site url/history/1930/01/13/comics/</link>
+				<guid isPermaLink="true">site url/history/1930/01/13/comics/</guid>
 			</item>
 		
 			<item>
@@ -68,8 +79,8 @@
 					<description>In Mickey&#39;s early films he was often characterized not as a hero, but as an ineffective young suitor to Minnie Mouse...</description>
 				
 				<pubDate>Thu, 28 Mar 1929 01:00:00 +0000</pubDate>
-				<link>site url/black-and-white-films</link>
-				<guid isPermaLink="true">site url/black-and-white-films</guid>
+				<link>site url/history/1929/03/28/black-and-white-films/</link>
+				<guid isPermaLink="true">site url/history/1929/03/28/black-and-white-films/</guid>
 			</item>
 		
 			<item>
@@ -79,8 +90,8 @@
 					<description>Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal...</description>
 				
 				<pubDate>Sun, 18 Nov 1928 01:00:00 +0000</pubDate>
-				<link>site url/debut</link>
-				<guid isPermaLink="true">site url/debut</guid>
+				<link>site url/history/1928/11/18/debut/</link>
+				<guid isPermaLink="true">site url/history/1928/11/18/debut/</guid>
 			</item>
 		
 	</channel>
