@@ -1,0 +1,32 @@
+#+STARTUP: noindent showeverything
+#+OPTIONS: toc:nil; html-postamble:nil
+#+BEGIN_HTML
+---
+layout: post
+title: Persona 4
+permalink: games-2016
+date: 
+type: post
+published: true
+status: publish
+image:
+  feature: persona4.jpg
+categories:
+- games
+tags:
+- games
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+#+END_HTML
+
+L and I played Persona 4 . 
+
+There were moments we laughed out loud.
+
+#+BEGIN_HTML
+<blockquote class="largeQuote">“It's awesome Teddy.”</blockquote>
+#+END_HTML
+
+We'll be forever in love with Persona 4's music.
