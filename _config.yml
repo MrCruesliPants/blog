@@ -16,7 +16,7 @@ tagline:             'tagline'
 description:         'description'
 url:                 http://mrcrueslipants.github.io/
 rss:                 rss feed url
-baseurl:             '/blog/'
+baseurl:             '/blog'
 baseurl_posts_img:   '/blog/assets/images/posts/'
 baseurl_featured_img: '/blog/assets/images/hero/'
 baseurl_featured_thumbnail: '/blog/assets/images/thumbnail/'
