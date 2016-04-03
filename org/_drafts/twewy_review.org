@@ -1,3 +1,20 @@
+#+STARTUP: noindent showeverything
+#+OPTIONS: toc:nil; html-postamble:nil
+#+BEGIN_HTML
+---
+layout: post
+title: 
+permalink: 
+date: 
+type: post
+published: true
+status: publish
+categories:
+- 
+tags:
+- 
+---
+#+END_HTML
 
 
 * points

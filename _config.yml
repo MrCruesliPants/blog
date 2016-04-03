@@ -14,7 +14,7 @@ name:		     MrCruesliPants
 title:               'MrCruesliPants.io'
 tagline:             'tagline'
 description:         'description'
-url:                 site url
+url:                 http://mrcrueslipants.github.io/
 rss:                 rss feed url
 baseurl:             '/blog/'
 baseurl_posts_img:   '/blog/assets/images/posts/'
@@ -26,7 +26,7 @@ disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
   name:           	 'Mr. CruesliPants'
-  url:            	 your site url
+  url:            	 http://mrcrueslipants.github.io/        
   facebook:          username
   twitter:           MrCruesliPants
   google_plus:       username
