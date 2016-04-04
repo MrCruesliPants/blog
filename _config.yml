@@ -11,7 +11,7 @@ permalink:           pretty
 timezone:            your timezone # eg. Asia/Kathmandu
 locale:              your locale language # eg. en_us
 name:		     MrCruesliPants
-title:               'Home Port'
+title:               Home Port
 tagline:             'tagline'
 description:         'description'
 url:                 http://mrcrueslipants.github.io/
