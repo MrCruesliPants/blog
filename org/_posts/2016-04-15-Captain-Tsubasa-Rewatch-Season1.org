@@ -29,7 +29,7 @@ h2 {
 
 #+END_HTML
 
-Over the next months (years?) I'm going to rewatch Captain Tsubasa. I plan to make a few notes on every episode, that will hopefully lead to a large, more focused article about the show later on.
+Over the next months (years?) I'm going to rewatch Captain Tsubasa. I plan to make a few notes on every episode, that will hopefully lead to a larger, more focused article about the show later on.
 
 * 01 - 大空へはばたけ
 
@@ -46,12 +46,15 @@ With this episode, we get a good idea for the direction of the next 10(?) episod
 I look forward to the team building and training of Tsubasa's team, but I can't predict what role Roberto Hongo will play. He is an excellent player for sure, but how well will he be able to teach?
 
 
+* 03 - 明日に向って、キック・オフ 
+
+The first episode I /really/ liked. We learn a lot about Roberto Hongo and his reasons for wanting to mentor Tsubasa are acceptable enough. I almost missed how Hongo, although he has played professionally for Brazil, calls Japan his native country. That explains him speaking the language and also having such an interest in Tsubasa!
+
+The montage of how the Nankatsu players are sneaking out of the houses and shops of their parents is adorable. In the training match with Nishigaoka we see the first appearance of another player (Hanji Urabe) who I think will become important later on. The ending, with Nankatsu's team walking home against the setting sun is absolutely beautiful and makes me very happy I picked this show for a rewatch.
 
 #+BEGIN_HTML
 <!-- 
-
-02 - 燃えろサッカー小僧
-03 - 明日に向って、キック・オフ  	
+	
 04 - ボールは友だち  	
 05 - ライバルはどこだ  	
 06 - ゴールをかためろ  	
