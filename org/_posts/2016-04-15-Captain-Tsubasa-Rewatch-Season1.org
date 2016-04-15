@@ -50,7 +50,15 @@ I look forward to the team building and training of Tsubasa's team, but I can't 
 
 The first episode I /really/ liked. We learn a lot about Roberto Hongo and his reasons for wanting to mentor Tsubasa are acceptable enough. I almost missed how Hongo, although he has played professionally for Brazil, calls Japan his native country. That explains him speaking the language and also having such an interest in Tsubasa!
 
+#+BEGIN_HTML
+<img src="{{ site.baseurl }}/assets/images/posts/tsubasa/tsubasa-season1-episode3.jpg" width="90%" style="display:block;margin:2em auto 2em;"/>
+#+END_HTML
+
 The montage of how the Nankatsu players are sneaking out of the houses and shops of their parents is adorable. In the training match with Nishigaoka we see the first appearance of another player (Hanji Urabe) who I think will become important later on. The ending, with Nankatsu's team walking home against the setting sun is absolutely beautiful and makes me very happy I picked this show for a rewatch.
+
+
+
+
 
 #+BEGIN_HTML
 <!-- 
