@@ -67,9 +67,19 @@ Taro promises to be an interesting character, possibly someone who loves footbal
 
 There was a small detail in Genzo's training montage, where in the frame he's wearing gloves where in the other he isn't. I wonder if it's an oversight or intentionally implying that he's practicing with and without gloves.
 
+* 05 - ライバルはどこだ
+
+The build-up of this episode is perfect. I'm just really excited to see how this match will go. Tsubasa playing as sweeper is interesting, but I would be surprised if this the only strategy that Hongo has prepared with Nankatsu's team.
+
+#+BEGIN_HTML
+<img src="{{ site.baseurl }}/assets/images/posts/tsubasa/tsubasa-season1-episode5.jpg" width="90%" style="display:block;margin:2em auto 2em;"/>
+#+END_HTML
+
+I remember watching the short scene in which Tsubasa is competing in the 200m sprint with his ball (and wins!) when I was young. It's a pretty minor event in the overall story, but back then it left a huge impression for me. I loved running maybe more than Tsubasa and I was so surprised to see how he could run so fast with a soccer ball. 
+
+
 #+BEGIN_HTML
 <!-- 	
-05 - ライバルはどこだ  	
 06 - ゴールをかためろ  	
 07 - 運命のロングシュート  	
 08 - さわやかコンビ誕生  	
