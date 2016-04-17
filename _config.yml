@@ -12,11 +12,11 @@ timezone:            your timezone # eg. Asia/Kathmandu
 locale:              your locale language # eg. en_us
 name:		     MrCruesliPants
 title:               Home Port
-tagline:             'tagline'
-description:         'description'
-url:                 http://mrcrueslipants.github.io/
-rss:                 rss feed url
-baseurl:             '/blog'
+tagline:             MrCruesliPants' blog.
+description:         A blog about games and stories of any kind.
+
+url:                 http://mrcrueslipants.github.io
+baseurl:             /blog
 baseurl_posts_img:   '/blog/assets/images/posts/'
 baseurl_featured_img: '/blog/assets/images/hero/'
 baseurl_featured_thumbnail: '/blog/assets/images/thumbnail/'
@@ -24,28 +24,19 @@ baseurl_javascripts: '/blog/assets/javascripts/'
 icon:                your site icon path # /assets/img/icon.png [best 300px X 300px]
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
+rss:                 rss feed url
+
 author:
   name:              MrCruesliPants
-  url:               http://mrcrueslipants.github.io/        
-  facebook:          username
+      
   twitter:           MrCruesliPants
-  google_plus:       username
-  linkedin:          username
-  dribbble:          username
-  pinterest:         username
-  kiva:              username
 
-fb_admins:           your facebook profile id
-fb_appid:            your facebook app id
 
 # Server
-destination:      	 ./_site
-exclude:          	 [".editorconfig", ".gitignore", "bower.json", "composer.json", "CONTRIBUTING.md", "CNAME", "LICENSE", "Gruntfile.js", "package.json", "node_modules", "README.md", "sass", "haml"]
+# destination:      	 ./_site
+exclude:          	 [".editorconfig", ".gitignore", "bower.json", "composer.json", "CONTRIBUTING.md", "CNAME", "LICENSE", "Gruntfile.js", "package.json", "node_modules", "README.md", "sass", "haml", "org/_posts", "org/_drafts"]
 port:             	 9001
 
-
-
-exclude: [org/_posts, org/_drafts]
 gems: [jekyll-sitemap]
 
 defaults:
