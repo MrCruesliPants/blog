@@ -20,13 +20,11 @@ image:
 #+END_HTML
 
 #+BEGIN_HTML
-
 <style>
 h2 {
     font-size: 24pt;
 }
 </style>
-
 #+END_HTML
 
 Over the next months (years?) I'm going to rewatch Captain Tsubasa. I plan to make a few notes on every episode, that will hopefully lead to a larger, more focused article about the show later on.
