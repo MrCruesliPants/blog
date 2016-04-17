@@ -85,11 +85,32 @@ So, here we are: A full episode for one half-time of a game. I don't mind it tho
 
 Genzo seems to be getting more and more bitter. While Tsubasa is thriving on the rivalry with him, Genzo seems almost scared and desperate. The end of the episode shows the most determined and sincere Tsubasa we have seen so far - /he wants to win!/ All in all, this is probably one of the weaker episodes so far. I wonder if I just don't like the games as much? 
 
+* 07 - 運命のロングシュート  
+
+Ishizaki's moment of courage. I really like that he is in fact remaining the captain of the team - he was somewhat joking about that before. His courage and determination enable Nankatsu's equalizer.
+
+#+BEGIN_HTML
+<img src="{{ site.baseurl }}/assets/images/posts/tsubasa/tsubasa-season1-episode7.jpg" width="90%" style="display:block;margin:2em auto 2em;"/>
+#+END_HTML
+
+ 
+
+* 08 - さわやかコンビ誕生  	
+
+A great episode! Finally Genzo is starting to show some positive character development, taking responsibility and leading his team. Much more important than scoring the 2-1 goal, was his acting as captain encouraging and directing his teammates. 
+
+#+BEGIN_HTML
+<img src="{{ site.baseurl }}/assets/images/posts/tsubasa/tsubasa-season1-episode8.jpg" width="90%" style="display:block;margin:2em auto 2em;"/>
+#+END_HTML
+
+That Taro would already join this game came a bit of a surprise to me. I like him well enough and the teacher constantly pointing out how cute he is added some humor, especially if she's going to get into some sort of competition with Anego over who is cuter: Taro or Tsubasa. 
+
+We're down 3 episodes for a single match, I do hope it's going wrap up the game next episode, but I have a feeling it won't be that easy. I'm somewhat worried about the standard the show is setting with this - here it's only a local school tournament, but how much more epic could, say, a national final get? Ten, fifteen, twenty episodes!?
+  
+
+
 #+BEGIN_HTML
 <!-- 	
- 	
-07 - 運命のロングシュート  	
-08 - さわやかコンビ誕生  	
 09 - ラストチャンスにかけろ  	
 10 - 夢はブラジルへ  	
 11 - はぐれ狼小次郎あらわる  	
