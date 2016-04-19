@@ -113,7 +113,7 @@ We're down 3 episodes for a single match, I do hope it's going wrap up the game 
 The match ends in a draw! All around good moments, the students cheering for the players of their school team, the moment of sportsmanship after the final whistle and Tsubasa thanking Anego's troupe for their support.
 
 #+BEGIN_HTML
-<img src="{{ site.baseurl }}/assets/images/posts/tsubasa/tsubasa-season1-episode9.jpg" width="90%" style="display:block;margin:2em auto 2em;"/>
+<img src="{{ site.baseurl  }}/assets/images/posts/tsubasa/tsubasa-season1-episode9.jpg" width="90%" style="display:block;margin:2em auto 2em;"/>
 #+END_HTML
 
 I'm excited for what's about to come. I honestly don't really need a Tsubasa - Genzo or even Nankatsu - Shutetsu rematch, but I'm rather excited for new teams with new players at the national tournaments!
