@@ -116,7 +116,7 @@ The match ends in a draw! All around good moments, the students cheering for the
 <img src="{{ site.baseurl  }}/assets/images/posts/tsubasa/tsubasa-season1-episode9.jpg" width="90%" style="display:block;margin:2em auto 2em;"/>
 #+END_HTML
 
-I'm excited for what's about to come. I honestly don't really need a Tsubasa - Genzo or even Nankatsu - Shutetsu rematch, but I'm rather excited for new teams with new players at the national tournaments!
+I'm excited for what's about to come. I honestly don't really need a Tsubasa-Genzo or even Nankatsu-Shutetsu rematch, but I'm rather excited for new teams with new players at the national tournaments!
 
 * 10 - 夢はブラジルへ  
 
@@ -130,13 +130,23 @@ So, Tsubasa can only go to Brazil with Roberto if they win the national champion
 <img src="{{ site.baseurl }}/assets/images/posts/tsubasa/tsubasa-season1-episode11.jpg" width="90%" style="display:block;margin:2em auto 2em;"/>
 #+END_HTML
   
-Hyuga's introduction is... interesting. I like him quite a bit, but showing up in Nankatsu seems strange. The rolled up sleeves is such a clever and recognizable feat of his personality, I'm excited to see him compete with Tsubasa and Genzo. Also, Ishizaki fight!
+Hyuga's introduction is... interesting. I like him quite a bit, but him showing up in Nankatsu seems strange. The rolled up sleeves is such a clever and recognizable feat of his personality, I'm excited to see him compete with Tsubasa and Genzo. Also, Ishizaki fight!
+
+* 12 - めざせ! 日本一  
+
+Ah! Finally we get the information why Tsubasa has to win the championship to be able to go to Brazil - it's the deal he struck with Roberto. Well, ok. On a more positive note, we get to learn more about Hyuga's background and his motivation to win the national championship.
+
+#+BEGIN_HTML
+<img src="{{ site.baseurl }}/assets/images/posts/tsubasa/tsubasa-season1-episode12.jpg" width="90%" style="display:block;margin:2em auto 2em;"/>
+#+END_HTML
+  
+I like the idea of him "abandoning" his team. He knows fully well that he can't win the national championship by himself and needs the support of his teammates and by abandoning them in the regionals he is giving them the chance to step out of his shadow and realize their own potential.
+
 
 
 #+BEGIN_HTML
 <!-- 	
 
-12 - めざせ! 日本一  	
 13 - 泥まみれの熱戦  	
 14 - フィールドの貴公子  	
 15 - 傷だらけのキーパー  	
