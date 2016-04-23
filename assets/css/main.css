@@ -275,11 +275,12 @@ ol ol {
 }
 
 blockquote {
+  text-align: center;
   line-height: 1.5rem;
   font-style: italic;
   padding-left: 25px;
   margin-left: -29px;
-  border-left: 4px solid #222;
+  /*border-left: 4px solid #222;*/
 }
 @media (max-width: 767px) {
   blockquote {

@@ -142,7 +142,7 @@ Ah! Finally we get the information why Tsubasa has to win the championship to be
   
 I like the idea of him "abandoning" his team. He knows fully well that he can't win the national championship by himself and needs the support of his teammates and by abandoning them in the regionals he is giving them the chance to step out of his shadow and realize their own potential.
 
-13 - 泥まみれの熱戦  
+* 13 - 泥まみれの熱戦
 
 A first test for Nankatsu FC and particularly Tsubasa. He has to lead his team, just as much as Genzo does. The rain starting half way throughout the match gave the scenario and unexpectedly appealing touch. The fans opening their umbrellas in the stands, the ball jumping in puddles, I think the animation and sound was very well done.
 
@@ -152,14 +152,34 @@ A first test for Nankatsu FC and particularly Tsubasa. He has to lead his team, 
 
 In contrast, Meiwa FC's game was bright and quick. Hyuga makes his comeback to the team and can convince to play his style of soccer. I'm very much intrigued by Hyuga's partner, Takeshi, and want to learn more about him soon!
 
+* 14 - フィールドの貴公子
+
+I'm always going to be very happy when sportsmanship is emphasized in Captain Tsubasa. The games and episodes are going at a very high pace at the moment, I'm really hoping for some more stories being told away from soccer field.
+
+#+BEGIN_HTML
+<img src="{{ site.baseurl }}/assets/images/posts/tsubasa/tsubasa-season1-episode14.jpg" width="90%" style="display:block;margin:2em auto 2em;"/>
+#+END_HTML
+
+I am very curious about Jun Misugi though. He seems very analytical and Hyuga has a high opinion of him. I can't wait to see Misugi in action!
+
+
+* 15 - 傷だらけのキーパー
+
+Nankatsu defeats Shimizu FC in the final and qualifies for the national tournament! Other than Wakabayashi's injury getting even more of a story anchor than I would have thought, again the most interesting bit to me happened off the field: Ishizaki's mum berating him for begging Tsubasa to score and teaching him to stand for himself was great: 
+
+#+BEGIN_QUOTE
+"If you want to play, then do it on your own! Be a man!"
+#+END_QUOTE
+
+
+* 16 - 夢はひとつ燃えろイレブン  	
+
+Genzo's injury being worse than expected does make for a very interesting storyline. He will not play until they face Meiwa FC, but will then have his revenge against Hyuga. My prediction for the tournament is that Meiwa and Nankatsu meet in the semi-finals with Nankatsu emerging victorious but losing against Misugi Jun's team, Musashi FC. 
 
 
 #+BEGIN_HTML
 <!-- 	
-	
-14 - フィールドの貴公子  	
-15 - 傷だらけのキーパー  	
-16 - 夢はひとつ燃えろイレブン  	
+
 17 - 開幕! 全国大会  	
 18 - 宿命の対決! 翼VS小次郎  	
 19 - 恐怖の弾丸シュート  	
