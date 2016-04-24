@@ -3,9 +3,9 @@
 #+BEGIN_HTML
 ---
 layout: post
-title: 
+title: The World Ends With You - Review
 permalink: 
-date: 
+date: 2016-04-16 
 type: post
 published: true
 status: publish
@@ -13,9 +13,14 @@ categories:
 - 
 tags:
 - 
+image:
+  feature: twewy_people.png
 ---
 #+END_HTML
 
+
+# Links:
+ [[http://www.swr.de/landesschau-aktuell/bw/suedbaden/mensa-der-uni-freiburg-baenderer-essen-was-andere-uebrig-lassen/-/id%3D1552/did%3D17318596/nid%3D1552/1rmvekw/index.html][nice image]]
 
 * points
 

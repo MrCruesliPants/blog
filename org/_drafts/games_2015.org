@@ -3,21 +3,18 @@
 #+BEGIN_HTML
 ---
 layout: post
-title: Persona 4
-permalink: games-2016
+title: Games of 2015
+permalink: games-2015
 date: 
 type: post
 published: true
 status: publish
 image:
-  feature: persona4.jpg
+  feature: persona4_clean.png
 categories:
 - games
 tags:
 - games
-bgContrast: dark
-bgGradientOpacity: darker
-syntaxHighlighter: no
 ---
 #+END_HTML
 
