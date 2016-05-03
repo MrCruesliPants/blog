@@ -246,10 +246,23 @@ Ishizaki! Admittedly, I've been waiting for this for a long time. That he would 
 This a match that Nankatsu is destined to win and I'm looking forward so much to them playing against Jun's team. Genzo seems in good shape as well and his face-off against Hyuga will be - superb!
 
 
+* 24 - 空中大決戦
+
+The knockout phase starts! All the favourites win their first matches and advance, now it's up to Nankatsu. It will be interesting to see how they will be able to score against Nakanishi. Teamwork? Brute force? Tenacity?
+
+#+BEGIN_HTML
+<img src="{{ site.baseurl }}/assets/images/posts/tsubasa/tsubasa-season1-episode24.jpg" width="90%" style="display:block;margin:2em auto 2em;"/>
+#+END_HTML
+
+It's still going to be a long tournament and I wonder if just a bit too much. I get that Tsubasa will evolve from match to match, imitating the Tachibana twin's acrobatic style in the last match for example, but I think I'm more interested in the overall development of Tsubasa and the team. I didn't think it would 98% soccer and I wonder if that still changes later.
+  
+
+
+
 #+BEGIN_HTML
 <!-- 	
 
-24 - 空中大決戦  	
+
 25 - 俺が大会一のキーパーだ!  	
 26 - ガラスのエース  	
 
