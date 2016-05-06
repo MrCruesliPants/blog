@@ -1,0 +1,73 @@
+#+STARTUP: noindent showeverything
+#+OPTIONS: toc:nil; html-postamble:nil
+#+BEGIN_HTML
+---
+layout: post
+title: Captain Tsubasa Rewatch - Season 2
+permalink: tsubasa-season1
+date: 2016-05-06
+type: post
+published: true
+status: publish
+categories:
+- anime
+tags:
+- rewatch
+- anime
+image:
+  feature: tsubasa-season2.jpg
+---
+#+END_HTML
+
+#+BEGIN_HTML
+<style>
+h2 {
+    font-size: 24pt;
+}
+</style>
+#+END_HTML
+
+27 - ベスト4！激突 
+
+The final three matches are set up beautifully. The rivalries, the ambitions and dreams of the most important players, the drama - everything's there. I'm really looking forward to both Wakashimazu and Genzo returning for the final - will Hyuga be able to score at all?
+
+#+BEGIN_HTML
+<img src="{{ site.baseurl }}/assets/images/posts/tsubasa/tsubasa-season2-episode27.jpg" width="90%" style="display:block;margin:2em auto 2em;"/>
+#+END_HTML
+
+I'm very happy with the show at this point. Sure, I'd like more non-match scenes, but the show is honest about what it is and I'm appreciating it for this. I can't predict at all how the final between Meiwa and Nankatsu (I'm guessing!) will end and if there will be some sort of time skip after the tournament. 
+
+If had to predict something, I would say Nankatsu beats Meiwa in the final and Tsubasa does go to Brazil for two to three years and the show picks up when he returns. Hyuga will accept the offer from Tohou, I believe they have already decided for him but want to see how far they push him.
+
+
+
+#+BEGIN_HTML
+<!-- 	
+	
+28 - 北国の熱きイレブン  	
+29 - 血みどろの対決  	
+30 - 傷だらけの貴公子  	
+31 - 華麗なる対決  	
+32 - 翼をワナにかけろ  	
+33 - とべない翼  	
+34 - よみがえれ翼  	
+35 - 淳死なないで  	
+36 - ボクの心臓まだ動いている  	
+37 - 奇跡の超ロングシュート  	
+38 - 眠れる猛虎・小次郎  	
+39 - 復活！天才キーパー若林  	
+40 - 出た！先制のツインシュート  	
+41 - 激突！若林対小次郎  	
+42 - 猛虎よ牙をむけ！  	
+43 - 危うし！ゴールデンコンビ  	
+44 - 炎のダイビングヘッド  	
+45 - ピンチ！エースなき戦い  	
+46 - やった！石崎得意の顔面ブロック  	
+47 - 小次郎のVサイン  	
+48 - 奇跡を呼ぶトリプルシュート  	
+49 - 灼熱の延長戦  	
+50 - ああ幻のゴール!?  	
+51 - オレたちは負けない！  	
+52 - 死闘！再延長戦  	
+
+#+END_HTML
