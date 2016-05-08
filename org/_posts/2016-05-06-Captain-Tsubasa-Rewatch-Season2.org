@@ -4,7 +4,7 @@
 ---
 layout: post
 title: Captain Tsubasa Rewatch - Season 2
-permalink: tsubasa-season1
+permalink: tsubasa-season2
 date: 2016-05-06
 type: post
 published: true
@@ -27,7 +27,7 @@ h2 {
 </style>
 #+END_HTML
 
-27 - ベスト4！激突 
+* 27 - ベスト4！激突 
 
 The final three matches are set up beautifully. The rivalries, the ambitions and dreams of the most important players, the drama - everything's there. I'm really looking forward to both Wakashimazu and Genzo returning for the final - will Hyuga be able to score at all?
 
@@ -39,10 +39,14 @@ I'm very happy with the show at this point. Sure, I'd like more non-match scenes
 
 If I had to predict something, I would say Nankatsu beats Meiwa in the final and Tsubasa does go to Brazil for two to three years and the show picks up when he returns. Hyuga will accept the offer from Tohou, I believe they have already decided for him but want to see how far they can push him.
 
+* 28 - 北国の熱きイレブン 
+
+
+
+
 #+BEGIN_HTML
 <!-- 	
-	
-28 - 北国の熱きイレブン  	
+ 	
 29 - 血みどろの対決  	
 30 - 傷だらけの貴公子  	
 31 - 華麗なる対決  	
