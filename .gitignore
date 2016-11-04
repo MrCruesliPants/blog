@@ -4,3 +4,4 @@ _site/
 _drafts/
 serve.sh
 serve_draft.sh
+!org/_drafts/
