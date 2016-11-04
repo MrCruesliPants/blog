@@ -1,0 +1,78 @@
+#+STARTUP: noindent showeverything
+#+OPTIONS: toc:nil; html-postamble:nil
+#+BEGIN_HTML
+---
+layout: post
+title: How to play Pokémon 
+permalink: how-to-pokemon
+date: 2016-10-15
+type: post
+published: true
+status: publish
+categories:
+- games
+tags:
+- pokemon
+---
+#+END_HTML
+
+GOAL: Explain and share my way of playing Pokémon.
+
+* introduction: why custom rules are important/beneficial (which!?)
+
+The experience we have with video game is shaped by how we interact with the medium. 
+
+* why I want/need (which!?) custom rules in _Pokémon Diamond_ 
+
+Pokémon games have always been very easy. Aimed primarily at young children.. 
+
+** it was my goal not only to make the challenge, but at the same time more immersive
+
+* Criticism of the Nuzlocke Challenge
+
+** not immmersive
+
+** perma-death incentives unnecessary midmaxing
+
+* My own challenge
+
+** Only fight with the same number of Pokémon as your opponent
+
+Sadly you can't concede in a trainer battle - the game forces you to fight until either your or all of the opposing trainer's Pokémon have fainted. It's 
+
+r other Pokémon attacks might "accidentally" win or unnecessarily prolong the fight, so the method I use is throwing Pokéballs at the trainer's Pokémon (they get deflected and not used up) until the fight is over. This 
+
+** When a Pokémon faints revive it as soon as you can
+
+If your Pokémon faints, healing it should be a number one priority. Either use a revive or quickly make your way to the nearest Pokémon Center. 
+
+** Potions in battle can only be used after your opponent does
+
+The use of potions during a battle always seemed out of place to me. I mean, how would this even work? From what I know, potions were never used to heal a Pokémon in a battle in the anime and are not allowed in online or tournament matches. I follow this example and restrict myself from using potions in battle. An exception to that rule is a battle in which the opposing trainer uses a potion first.
+
+I don't usually make use of that exception, but I found that some gym battles in Pokémon Diamond became unnecessarily difficult without the option to heal your most effective Pokémon against the gym master's types. 
+
+
+
+
+
+
+* reference (GI email)
+
+I just heard you talking about wanting to try a Nuzlocke challenge for Sun & Moon. I recently beat the Elite 4 in Pokémon Diamond and was playing around with some ideas on how to make the games more interesting and challenging. I'm not such a big fan of Nuzlocke, but tried I some different things and I wanted to share with you what I learned from my experience!
+
+What didn't work:
+
+    - Perma death makes the game unfun. It's not about losing Pokémon, that could be a powerful experience, but the fear of perma death compells you to play the game in a completely unchallenging way, staying many levels (~10?) above the Pokémon you fight against.
+
+
+Good ways I found to keep the game challenging were:
+
+    - Matching the number of Pokémon used in a trainer battle. If they only have 3 Pokémon, restrict yourself to using 3 Pokémon also. Especially 1v1 battles become quite challenging this way!
+    - Don't use potions in battle. Alternatively: Match the number of potions used by the opponent.
+    - Don't use Exp. Share.
+
+
+An interesting idea I haven't tried yet:
+
+    - Never use the Pokémon Centers for healing or, alternatively, restrict the number of visits. 
