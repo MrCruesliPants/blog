@@ -16,7 +16,8 @@ tags:
 ---
 #+END_HTML
 
-GOAL: Explain and share my way of playing Pokémon.
+*TITLE*: How to become a Pokémon Master
+*GOAL*: Explain and share my way of playing Pokémon.
 
 * introduction: why custom rules are important/beneficial (which!?)
 
@@ -26,7 +27,7 @@ The experience we have with video game is shaped by how we interact with the med
 
 Pokémon games have always been very easy. Aimed primarily at young children.. 
 
-** it was my goal not only to make the challenge, but at the same time more immersive
+** it was my goal not only to make the game more challenging, but to make the experience more immersive at the same time
 
 * Criticism of the Nuzlocke Challenge
 
@@ -51,8 +52,6 @@ If your Pokémon faints, healing it should be a number one priority. Either use 
 The use of potions during a battle always seemed out of place to me. I mean, how would this even work? From what I know, potions were never used to heal a Pokémon in a battle in the anime and are not allowed in online or tournament matches. I follow this example and restrict myself from using potions in battle. An exception to that rule is a battle in which the opposing trainer uses a potion first.
 
 I don't usually make use of that exception, but I found that some gym battles in Pokémon Diamond became unnecessarily difficult without the option to heal your most effective Pokémon against the gym master's types. 
-
-
 
 
 
