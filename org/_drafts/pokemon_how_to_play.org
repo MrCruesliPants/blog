@@ -3,7 +3,7 @@
 #+BEGIN_HTML
 ---
 layout: post
-title: How to play Pokémon 
+title: To become a Pokémon Master
 permalink: how-to-pokemon
 date: 2016-10-15
 type: post
