@@ -310,6 +310,26 @@ blockquote.largeQuote a {
   background-position: 0 42px;
 }
 
+blockquote.mediumQuote {
+  line-height: 1.4;
+  text-align: center;
+  font-size: 1.5rem;
+  margin: 1.5rem -160px 0;
+  padding-left: 0;
+  border-left: 0;
+}
+@media (max-width: 767px) {
+  blockquote.mediumQuote {
+    margin: 1.5rem 0 0;
+    font-size: 1.2rem;
+    padding-left: 0;
+  }
+}
+blockquote.mediumQuote a {
+  background-position: 0 42px;
+}
+
+
 /* Headings */
 h1,
 h2,
