@@ -41,6 +41,27 @@ If I had to predict something, I would say Nankatsu beats Meiwa in the final and
 
 * 28 - 北国の熱きイレブン 
 
+/(After a break of about three years I'm continuing the rewatch now in 2019)/
+
+It's the perfect episode of Captain Tsubasa. In the first semifinal Furano FC of Hokkaido clashes with Hyuga's Meiwa FC. Here's the perfect amount of drama, which quickly swayed me from rooting for one side to the other and back. Furano's strength is in its team play, relying on one another and working hard for their goal of winning this tournament.
+
+#+BEGIN_HTML
+<img src="{{ site.baseurl }}/assets/images/posts/tsubasa/tsubasa-season2-episode28_furano-practicing-in-the-snow.png" width="90%" style="display:block;margin:2em auto 2em;"/>
+#+END_HTML
+
+We know a little bit about Hyuga's deep motivation to win already, but Furano's dedication is not to be underestimated and portrayed perfectly when their captain Hikaru Matsuyama let's himself intentionally get hurt by Hyuga to draw the penalty shot. 
+
+#+BEGIN_HTML
+<img src="{{ site.baseurl }}/assets/images/posts/tsubasa/tsubasa-season2-episode28_hyuuga-kojiro_vs_hikaru-matsuyama.jpg" width="90%" style="display:block;margin:2em auto 2em;"/>
+#+END_HTML
+
+Quickly, however, we feel with Hyuga, sitting exhausted by himself on a chair at halftime. As Meiwa's coach Kozo Kira says, the young Takeshi Sawada is the key player to this match. We see more of Sawada's back story, how Hyuga supported him despite Takeshi's young age. "Age has nothing to do with soccer!" is a great moment for Hyuga in this show so far. We see Kozo personally training Takeshi and understand that he has worked as hard for this tournament as everyone else.
+
+#+BEGIN_HTML
+<img src="{{ site.baseurl }}/assets/images/posts/tsubasa/tsubasa-season2-episode28_kozo-kira-training-takeshi-sawada.jpg" width="90%" style="display:block;margin:2em auto 2em;"/>
+#+END_HTML
+
+As the match continues we see that Ken Wakashimazu has changed into his uniform on the sidelines. What more could I want out of this series?
 
 
 
