@@ -27,16 +27,29 @@ h2 {
 </style>
 #+END_HTML
 
-I recently picked up and continued my rewatch of the anime [[https://myanimelist.net/anime/2116/Captain_Tsubasa][/Captain Tsubasa/]]. Going through my previous posts and short episode descriptions, I remembered being strangely curious about the building the teams stayed in during the first big tournament. Oddly shaped, the building looked to me like it was built under ski jumping ramp – a strange and specific construction that made me think it could be based on a real building in Japan. 
+After a long break, I recently picked up and continued my rewatch of [[https://myanimelist.net/anime/2116/Captain_Tsubasa][/Captain Tsubasa/]]. As I was going through my previous posts and short episode descriptions, I remembered being strangely curious about a building that is briefly shown in the anime. The building seemed to serve as dormitory for the young players participating in the tournament. What got my curious, however, was the building's peculiar shape. With its slanted roof it looked to me like it was built under some sort of ski jumping ramp. The construction was certainly strange and specific enough to make me think it could be based on a real building in Japan. 
 
-Wouldn't it be cool to find this building? Maybe I could even visit the place on our trip to Japan? Quite some time has passed since I first started this rewatch and among the more positive developments I've since become a little bit less scared of the Japanese language. Maybe I could find something this time? So, and since I apparently don't have better things to do, I set out to find this building I briefly saw in an anime from 1983.
+Wouldn't it be cool to find this building? Quite some time has passed since I first started this rewatch and among the more positive developments I've since become a little bit less scared of the Japanese language. Maybe I could find something this time? So, and since I apparently don't have better things to do, I set out to find this building I briefly saw in an anime from 1983.
+
+
+# It's never shown explicitly, but I believe the building seems to serve as dormitory for the teams participating in the first big tournament of this show. 
+
+# the teams stayed in during the first big tournament. Oddly shaped, the building looked to me like it was built under some sort of ski jumping ramp – a strange and specific enough construction to make me think it could be based on a real building in Japan. 
+
+# Wouldn't it be cool to find this building? Maybe I could even visit the place on our trip to Japan? Quite some time has passed since I first started this rewatch and among the more positive developments I've since become a little bit less scared of the Japanese language. Maybe I could find something this time? So, and since I apparently don't have better things to do, I set out to find this building I briefly saw in an anime from 1983.
 
 #+BEGIN_HTML
-<img src="{{ site.baseurl }}/assets/images/posts/tsubasa/tsubasa-season1-episode17.jpg" width="90%" style="display:block;margin:2em auto 2em;"/>
+<figure>
+<img src="{{ site.baseurl }}/assets/images/posts/tsubasa/tsubasa-season1-episode17.jpg" width="100%"/>
+<figcaption style="text-align:center; font-size: 10pt;"><i> The 'Yomiuri Schanze' as seen in Captain Tsubasa (1983), Episode 2? </i></figcaption>
+</figure>
 #+END_HTML
 
 
-And, well, it worked out much better than I could have thought. My first 
+And, well, it worked out much better than I could have thought. I first learned that tournament taking place in the anime is called the "6th Yomiuriland National Tournament" (よみうりランド 全国 大会) and is based on the actual [[https://ja.wikipedia.org/wiki/JFA_%25E5%2585%25A8%25E6%2597%25A5%25E6%259C%25ACU-12%25E3%2582%25B5%25E3%2583%2583%25E3%2582%25AB%25E3%2583%25BC%25E9%2581%25B8%25E6%2589%258B%25E6%25A8%25A9%25E5%25A4%25A7%25E4%25BC%259A][youth soccer tournament]] taking place in Japan. [[http://www.yomiuriland.com/english/][Yomiuriland]] is a location just outside Tokyo that still a bit difficult for me to understand. It's mainly an amusement park  but it also 
 
+#+BEGIN_HTML
+<img src="{{ site.baseurl }}/assets/images/posts/yomiuri-schanze/yomiuriland-night.png" width="90%" style="display:block;margin:2em auto 2em;"/>
+#+END_HTML
 
 and got much more interesting than I could have thought. My first clue was finding that tournament 
