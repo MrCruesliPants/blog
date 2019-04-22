@@ -2970,3 +2970,7 @@ body {
     display: none !important;
   }
 }
+
+.footpara {
+    display: inline;
+}
