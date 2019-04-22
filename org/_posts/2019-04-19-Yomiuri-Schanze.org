@@ -27,9 +27,9 @@ h2 {
 </style>
 #+END_HTML
 
-After a long break, I recently picked up and continued my rewatch of [[https://myanimelist.net/anime/2116/Captain_Tsubasa][/Captain Tsubasa/]]. As I was going through my previous posts and short episode descriptions, I remembered being strangely curious about a building that is briefly shown in the anime. This building seemed to serve as dormitory for the young players participating in the tournament. What got me curious, however, was the building's peculiar shape. With its slanted roof it looked to me like it was maybe built under some sort of ski jumping ramp. The construction was certainly strange and specific enough to make me think it could be based on a real building in Japan. 
+After a long break, I recently picked up and continued my rewatch of [[https://myanimelist.net/anime/2116/Captain_Tsubasa][/Captain Tsubasa/]]. As I was going through my previous posts and short episode descriptions, I remembered being strangely curious about a building that is briefly shown in the anime. This building seemed to serve as dormitory for the young players participating in the tournament. What piqued my interest, however, was the building's peculiar shape. With its slanted roof it looked to me like it was maybe built under some sort of ski jump ramp. The construction was certainly strange and specific enough to make me think it could be based on a real building in Japan. 
 
-I had searched for it a little bit back then, but wouldn't it be so cool to find this building? Quite some time has passed since I first started this rewatch and among the more positive developments I've since become a little bit less scared of the Japanese language. Maybe I could find something this time? So, and since I apparently don't have better things to do, I set out to find this building I briefly saw in an anime from 1983.
+I had searched for it a little bit back then without success, but wouldn't it be so cool to find this building? Quite some time has passed since I first started this rewatch and among the more positive developments I've since become a little bit less scared of the Japanese language. Maybe I could find something this time? So, and since I apparently don't have better things to do, I set out to find this building I briefly saw in an anime from 1983.
 
 
 # It's never shown explicitly, but I believe the building seems to serve as dormitory for the teams participating in the first big tournament of this show. 
@@ -40,19 +40,40 @@ I had searched for it a little bit back then, but wouldn't it be so cool to find
 
 #+BEGIN_HTML
 <figure style="margin-top: 2em; margin-bottom: 1em; padding: 0em" >
-<img src="{{ site.baseurl }}/assets/images/posts/tsubasa/tsubasa-season1-episode17.jpg" width="100%"/>
+<img src="{{ site.baseurl }}/assets/images/posts/yomiuri-schanze/yomiuri-schanze-day-ep17.png"  width="100%" style="display:block;"/>
 <figcaption style="text-align:center; font-size: 14pt; margin-top:1em; margin-bottom:3em;"><i> The 'Yomiuri Schanze' as seen in Captain Tsubasa (1983), Episode 17. </i></figcaption>
 </figure>
 #+END_HTML
 
 
-And, well, it worked out much better than I could have thought. I first learned that tournament taking place in the anime is called the "6th Yomiuriland National Tournament" (よみうりランド 全国 大会) and is based on the actual [[https://ja.wikipedia.org/wiki/JFA_%25E5%2585%25A8%25E6%2597%25A5%25E6%259C%25ACU-12%25E3%2582%25B5%25E3%2583%2583%25E3%2582%25AB%25E3%2583%25BC%25E9%2581%25B8%25E6%2589%258B%25E6%25A8%25A9%25E5%25A4%25A7%25E4%25BC%259A][youth soccer tournament]] taking place in Japan. [[http://www.yomiuriland.com/english/][Yomiuriland]] is a location just outside Tokyo that is still a bit difficult for me to understand. It's mainly an amusement park  but it also 
+And, well, it worked out much better than I could have thought. I first learned that the tournament taking place in the anime is called the '6th Yomiuriland National Tournament' (よみうりランド 全国 大会) and is based on the actual [[https://ja.wikipedia.org/wiki/JFA_%E5%85%A8%E6%97%A5%E6%9C%ACU-12%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E9%81%B8%E6%89%8B%E6%A8%A9%E5%A4%A7%E4%BC%9A][youth soccer tournament]] taking place in Japan. Opened in the 1960s, [[https://en.wikipedia.org/wiki/Yomiuriland][Yomiuriland]] is a location just outside Tokyo that is still a bit difficult for me to understand. It's an [[http://www.yomiuriland.com/english/][amusement park]], but it also has a [[https://en.wikipedia.org/wiki/Yomiuri_Giants_Stadium][baseball stadium]],  and [[http://www.yomiuriland.com.e.ym.hp.transer.com/wai/][water park]]. And, of course, a soccer fields!
 
 #+BEGIN_HTML
 <figure style="margin-top: 2em; margin-bottom: 1em; padding: 0em" >
-<img src="{{ site.baseurl }}/assets/images/posts/yomiuri-schanze/yomiuriland-night.png" width="100%"/>
-<figcaption style="text-align:center; font-size: 14pt; margin-top:1em; margin-bottom:3em;"><i> Yomiuriland at night, Captain Tsubasa (1983), Episode 27.</i></figcaption>
+<img src="{{ site.baseurl }}/assets/images/posts/yomiuri-schanze/nankatsu-fc-at-yomiuriland-ep17.png" width="100%"/>
+<figcaption style="text-align:center; font-size: 14pt; margin-top:1em; margin-bottom:3em;"><i> Nankatsu FC arriving at Yomiuriland in Episode 17.</i></figcaption>
 </figure>
 #+END_HTML
 
-and got much more interesting than I could have thought. My first clue was finding that tournament 
+With my guess of a ski jump ramp, Yomiuriland as a keyword and a little bit of searching I was indeed able to find the building. It turns out that starting from 1963, Yomiuriland was operating the 'Yomiuri Ski Center' (読売スキーセンター) which not only featured a slope for grass skiing but also a proper ski jump ramp[fn:link1]. The ski jump ramp was used for training and said to be 
+
+#+BEGIN_HTML
+<figure style="margin-top: 2em; margin-bottom: 1em; padding: 0em" >
+<img src="{{ site.baseurl }}/assets/images/posts/yomiuri-schanze/yomiuri-ski-center.jpg" width="100%"/>
+<figcaption style="text-align:center; font-size: 14pt; margin-top:1em; margin-bottom:3em;"><i> Yomiuri Ski Center 1963-1972.</i></figcaption>
+</figure>
+#+END_HTML
+
+After the ski resort closed in 1972 the building underneath the ski jump ramp kept operating as the . 
+
+Today this site . I won't be able to visit the Yomiuri Schanze, but I had a lot of fun looking for and finding this information on this building. I hope you enjoyed reading about this as well!
+
+
+#+BEGIN_HTML
+<figure style="margin-top: 2em; margin-bottom: 1em; padding: 0em" >
+<img src="{{ site.baseurl }}/assets/images/posts/yomiuri-schanze/yomiuri-land-hall.jpg" width="100%"/>
+<figcaption style="text-align:center; font-size: 14pt; margin-top:1em; margin-bottom:3em;"><i> The Yomiuri Ski Center (1983), Episode 27.</i></figcaption>
+</figure>
+#+END_HTML
+
+[fn:link1] [[http://skis-hijikata.o.oo7.jp/ss_i/rekishi_skiarea-2.htm]]
