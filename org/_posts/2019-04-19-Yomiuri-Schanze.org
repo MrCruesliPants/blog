@@ -27,7 +27,7 @@ h2 {
 </style>
 #+END_HTML
 
-After a long break, I recently picked up and continued my rewatch of [[https://myanimelist.net/anime/2116/Captain_Tsubasa][/Captain Tsubasa (1983)/]]. As I was going through my previous posts and short episode descriptions, I remembered being strangely curious about a building that is briefly shown in the anime. This building seemed to serve as a dormitory for the young players participating in the tournament. What piqued my interest, however, was the building's peculiar shape. With its slanted roof it looked to me like it was maybe built under some sort of ski jump ramp. The construction was certainly strange and specific enough to make me think it could be based on a real building in Japan. 
+After a long break, I recently picked up and continued my rewatch of [[https://myanimelist.net/anime/2116/Captain_Tsubasa][/Captain Tsubasa (1983)/]]. As I was going through my previous posts and short episode descriptions, I remembered being strangely intrigued by a building that is briefly shown in the anime. This building seemed to serve as a dormitory for the young players participating in the tournament. What piqued my interest, however, was the building's peculiar shape. With its slanted roof it looked to me like it was maybe built under some sort of ski jump ramp. The construction was certainly strange and specific enough to make me think it could be based on a real building in Japan. 
 
 I had searched for it a little bit back then without success, but wouldn't it be so cool to find this building? Quite some time has passed since I first started this rewatch and among the more positive developments I've since become a little bit less scared of the Japanese language. Maybe I could find something this time? So, and since I apparently don't have better things to do, I set out to find this building I briefly saw in an anime from 1983.
 
@@ -55,7 +55,7 @@ And, well, it worked out much better than I could have thought. I first learned 
 </figure>
 #+END_HTML
 
-With my guess of a ski jump ramp, Yomiuriland as a keyword and a little bit of searching I was indeed able to find the building. It turns out that starting from 1963, Yomiuriland was operating the 'Yomiuri Ski Center' (読売スキーセンター), which not only featured a slope for grass skiing but also a proper ski jump ramp[fn:link1]. The ski jump ramp was mainly used for training and its accessibility might have contributed to Japan's dominating victory, claiming all three medals in the 70m ski jump competition in the 1972 Winter Olympics in Sapporo[fn:link2].
+With my guess of a ski jump ramp, Yomiuriland as a keyword and a little bit of searching I was indeed able to find the building. It turns out that starting from 1963, Yomiuriland was operating the 'Yomiuri Ski Center' (読売スキーセンター), which not only featured a slope for grass skiing but also a proper ski jump ramp[fn:link1]. The ski jump ramp was mainly used for training and is credited to have contributed to Japan's dominating victory, claiming all three medals in the 70m ski jump competition in the 1972 Winter Olympics in Sapporo[fn:link2].
 
 #+BEGIN_HTML
 <figure style="margin-top: 2em; margin-bottom: 1em; padding: 0em" >
